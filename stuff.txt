@@ -1,1 +1,2 @@
-see spot
+see spot run
+spot runs fast
